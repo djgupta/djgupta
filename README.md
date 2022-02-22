@@ -24,8 +24,8 @@
 	<img width="5%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_170552.png" alt="Jenkins"/>
 </p>
 <p align="center">
-	<img width="5%" style="padding:5px" src="https://img.icons8.com/dusk/64/000000/spring-logo.png" alt="spring"/>
-	<img width="5%" style="padding:5px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/django.png" alt="django"/>
+	<img width="5%" style="padding:5px" src="https://img.icons8.com/ios/50/000000/django.png" alt="django"/>
+	<img width="5%" style="padding:5px" src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring"/>
 </p>
 <p align="center">
 	<img width="5%" style="padding:5px" src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
