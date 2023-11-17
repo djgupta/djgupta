@@ -34,9 +34,10 @@
 
 
 <p align="center">
-  <a href="https://twitter.com/djgupta9" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/djgupta9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/djgupta9" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.upwork.com/freelancers/djgupta" target="_blank"><img src="https://img.shields.io/badge/upwork-black?logo=upwork" alt="Upwork"></a>
+  <a href="https://twitter.com/djgupta9" target="_blank"><img src="https://img.shields.io/badge/x-black.svg?logo=x" alt="X"></a>
+  <a href="https://www.linkedin.com/in/djgupta9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-black.svg?logo=linkedin&logoColor=blue" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/djgupta9" target="_blank"><img src="https://img.shields.io/badge/Instagram-black.svg?&logo=instagram" alt="Instagram"></a>
   <a href="https://github.com/djgupta" target="_blank"><img src="https://komarev.com/ghpvc/?username=djgupta&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square" alt="Visits"></a>
 </p>
 
