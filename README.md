@@ -34,10 +34,12 @@
 
 
 <p align="center">
+<a href="mailto:djaycorp@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-black?logo=gmail" alt="gmail"></a>
   <a href="https://www.upwork.com/freelancers/djgupta" target="_blank"><img src="https://img.shields.io/badge/upwork-black?logo=upwork" alt="Upwork"></a>
-  <a href="https://twitter.com/djgupta9" target="_blank"><img src="https://img.shields.io/badge/x-black.svg?logo=x" alt="X"></a>
-  <a href="https://www.linkedin.com/in/djgupta9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-black.svg?logo=linkedin&logoColor=blue" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/djgupta9" target="_blank"><img src="https://img.shields.io/badge/Instagram-black.svg?&logo=instagram" alt="Instagram"></a>
-  <a href="https://github.com/djgupta" target="_blank"><img src="https://komarev.com/ghpvc/?username=djgupta&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square" alt="Visits"></a>
 </p>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/djgupta9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-black.svg?logo=linkedin&logoColor=blue" alt="LinkedIn"></a>
+  <a href="https://twitter.com/djgupta9" target="_blank"><img src="https://img.shields.io/badge/x-black.svg?logo=x" alt="X"></a>
+  <a href="https://www.instagram.com/djgupta9" target="_blank"><img src="https://img.shields.io/badge/Instagram-black.svg?&logo=instagram" alt="Instagram"></a>
+  <a href="https://github.com/djgupta" target="_blank"><img src="https://komarev.com/ghpvc/?username=djgupta&logo=GitHub&label=github%20visits" alt="Visits"></a>
+</p>
